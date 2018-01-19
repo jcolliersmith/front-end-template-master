@@ -2,8 +2,7 @@
 
 ## Description
 ```
-A brief description of your project
-
+Mory & Colliersmith, PLLC is firm focusing on personal injury.
 ```
 
 
