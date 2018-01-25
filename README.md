@@ -2,7 +2,8 @@
 
 ## Description
 ```
-Mory & Colliersmith, PLLC is firm focusing on personal injury.
+My Bucket List is a website that will be used to keep track of my bucket list and also provide inspiration for those viewing to create thier own sense of adventure. 
+
 ```
 
 
@@ -11,7 +12,8 @@ Mory & Colliersmith, PLLC is firm focusing on personal injury.
 ```
 The class(es) I created are:
 
-1. class name ex( .main-info-section )
+1. class name container  
+class name ex( .main-info-section )
 .. what class does, ex( adds padding & changes background color of .main-info-section )
 
 2.
