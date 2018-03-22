@@ -2,7 +2,7 @@
 
 ## Description
 ```
-My Bucket List is a website that will be used to keep track of my bucket list and also provide inspiration for those viewing to create thier own sense of adventure. 
+My Bucket List is a website that will be used to keep track of my bucket list and also provide inspiration for those viewing to create thier own sense of adventure.
 
 ```
 
@@ -12,11 +12,22 @@ My Bucket List is a website that will be used to keep track of my bucket list an
 ```
 The class(es) I created are:
 
-1. class name container  
-class name ex( .main-info-section )
-.. what class does, ex( adds padding & changes background color of .main-info-section )
+1.    <div class="wrap">
+This class is used to wrap header, body and footer so that they can be independent in padding (width and height)
 
-2.
+2.    <header class="main-header">
+
+3.    <div class="container">
+
+4.    <h1 class="=name">
+
+5.    <ul class="main-nav">
+
+6.    <div class="box">
+
+7.    <footer class="main-footer">
+
+
 
 ```
 
