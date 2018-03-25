@@ -71,7 +71,7 @@ img {
 
 .banner {
     color: #fff;
-    background: #fff;
+    background: rgb(148, 148, 150);
     padding: 3.2em 0;
     margin-bottom: 48px;
     text-align: center;
@@ -197,6 +197,6 @@ img {
         font-size: 1em;
         line-height: 1.5;
         font-weight: 700;
-        color: #3a3a3a
+        color: #fff
     }
       
