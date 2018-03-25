@@ -2,7 +2,7 @@
 
 ## Description
 ```
-My Bucket List is a website that will be used to keep track of my bucket list and also provide inspiration for those viewing to create thier own sense of adventure.
+Our Bucket List of Photos is a website that will be used to keep track of our bucket list via photos from the experiences. Hopefully this will also provide inspiration for those viewing to create thier own sense of adventure.
 
 ```
 
