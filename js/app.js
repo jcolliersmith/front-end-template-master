@@ -33,3 +33,9 @@
   
   }());
 
+// Practincing JQUERY * this is not part of Code Louisville - this is just practice
+$(document).ready(function () {
+  $('photos.html').click(function () {
+    $(this).addClass("selected");
+  });
+});
