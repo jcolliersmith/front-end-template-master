@@ -7,20 +7,6 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans|Raleway|Roboto" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" type="text/javascript"></script>
     <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-    <script src="js/app.js"></script>
-    <script> 
-    var request = new XMLHttpRequest();
-    request.onreadystatechange = function () {
-        if (request.readyState === 4) {
-            document.getElementById('ajax').innerHTML = request.responseText;
-        }
-    };
-    request.open('GET', 'photos.html');
-    function sendAJAX() {
-        request.send(); 
-        document.getElementById('load').style.display = "none";
-    } 
-    </script> <!-- this is pracetice code and is not finished-->
 </head>
 
     <body>
@@ -51,7 +37,6 @@
         </div>
         <div class="container">
             <h2>The Top of Bucket List of Photos</h2>
-            <button id="load" onclick="sendAJAX()">Photos</button>
             <ul>
                 <li><a href="#" target="_blank">Prague for a Month</a></li>  <!--- add anchor tags to images or add specific pages -->
                 <li><a href="#" target="_blank">London for the Olympics</a></li> <!--- add anchor tags to images or add specific pages -->
