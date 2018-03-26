@@ -187,6 +187,8 @@ img {
     .lightbox img {
         display: block;
         margin: auto;
+        max-width: 620px; 
+        max-height: 620px;
     }
       
     .lightbox .caption {

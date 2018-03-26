@@ -22,18 +22,19 @@ Created to maintain footer on all pages
 Created for main navigation structure
 
 5.  <div class="lightbox-gallery">
-Used to add depth to photos page. The lightbox opens when you click on the image showing you the image a bit bigger. When you are viewing this in a smaller size the text shows up explaining what the image is. The lightbox goes away when you click on the image once again. 
+Used to add depth to photos page. The lightbox opens when you click on the image showing you the image a bit bigger. Text shows up explaining what the image is. The lightbox goes away when you click on the image once again. 
 
 
 ```
 ## Custom JavaScript Functions
 ```
-The javascript functions I created are:
+The javascript functions I created for this project is:
 
-1. (function() {
+1. Lightbox Function - 
+    (function() {
     var $lightbox = $("<div class='lightbox'></div>");
     var $img = $("<img>");
     var $caption = $("<p class='caption'></p>");function name ex( animate() )
-    This is used to create a lightbox around images in photos. When you click on the image the lightbox appears and shows the image a bit bigger. On a smaller responsive size, text shows up underneath the image to explain what the picture is. This feature is responsive. When you click on the image again the lightbox closes. 
+    This is used to create a lightbox around images in photos. When you click on the image the lightbox appears and shows the image a bit bigger. Text shows up underneath the image to explain what the picture is. This feature is responsive. When you click on the image again the lightbox closes. 
 
-```
+...

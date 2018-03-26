@@ -11,7 +11,6 @@
   
 // Add lighbox to document  
     $('body').append($lightbox);
-  
     $('.lightbox-gallery img').click(function(e) {
       e.preventDefault();
   
@@ -25,17 +24,8 @@
   
 // Show lightbox  
       $lightbox.fadeIn('fast');
-  
       $lightbox.click(function() {
         $lightbox.fadeOut('fast');
       });
     });
-  
   }());
-
-// Practincing JQUERY * this is not part of Code Louisville - this is just practice
-$(document).ready(function () {
-  $('photos.html').click(function () {
-    $(this).addClass("selected");
-  });
-});
